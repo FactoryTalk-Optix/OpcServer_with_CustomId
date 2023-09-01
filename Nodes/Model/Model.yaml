@@ -1,0 +1,24 @@
+Name: Model
+Id: g=fb6543bf8c558b11ea2f5be225a426c0
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=d457b2dd5183a536fd7e00ed1de83292
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Variable with GUID"
+- Name: Variable2
+  Id: "s='Custom Variable 2'"
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Variable with String spaced ID"
+- Name: Variable3
+  Id: s=CustomVariable3
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Variable with String ID"
+- Name: Variable4
+  Id: i=12345
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Variable with Integer ID"
